@@ -1,0 +1,26 @@
+package src.Dec17;
+
+public class Lab0026 {
+    public static void main(String[] args) {
+        // Increment operator.
+        int a = 10;
+        System.out.println(++a + a++ + a++);
+        System.out.println(a);
+
+        // Part - A ( Exp = 11, a = 11  ) -> ++a -> O/P -> 11
+        // Part - B ( Exp = 11, a = 12  ) -> a++ -> O/P -> 11
+        // Part - C ( Exp = 12, a = 13  ) -> a++ -> O/P -> 12
+        // A+B+C -> 11+11+12 -> 34, a -> 13
+        // Pre Incremet
+       // ++ in front variable like a -> pre ->
+        // do increment first then print
+
+        // Post Increment
+        // ++ after variable like a++ -> post ->
+        // first print, do increment
+
+
+
+
+    }
+}
