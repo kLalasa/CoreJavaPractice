@@ -5,9 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d2493-9829-4675-854c-0d419652e36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loops/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec17/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec17/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec17/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec17/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec17/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec17/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec23/Lab011.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0017.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0019.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0025.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0025.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0026.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0026.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab0027.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab0027.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Dec17/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Basics/Lab009.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +66,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kLalasa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="15e2215d-6087-4fcc-a2a6-2a7cd8fba5b9" />
+        <option name="url" value="https://github.com/kLalasa/CoreJavaPractice.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -33,14 +89,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/klala/IdeaProjects/Javaprograms/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/klala",
+    "onboarding.tips.debug.path": "C:/Users/klala/IdeaProjects/Javaprograms/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Application.Lab011">
+    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec17.Lab002" />
+      <module name="Javaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec17.Lab003" />
+      <module name="Javaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec23.Lab011" />
+      <module name="Javaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dec23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab011" />
+        <item itemvalue="Application.Lab003" />
+        <item itemvalue="Application.Lab002" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +167,41 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dec17/Lab002.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dec17/Lab002.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dec17/Lab002.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dec17/Lab002.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dec23/Lab004.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dec23/Lab011.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dec23/Lab011.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
