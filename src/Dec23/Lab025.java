@@ -9,10 +9,13 @@ public class Lab025 {
         int num= sc.nextInt();
 
         long fact=1;
-        int i=1;
+       /* int i=1;
         while(i<=num){
             fact=fact*i;
             i++;
+        }*/
+        for(int i=1;i<=num;i++){
+            fact=fact*i;
         }
         System.out.println(fact);
     }
