@@ -56,16 +56,31 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/klala/IdeaProjects/Javaprograms/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BankMain">
+  <component name="RunManager">
     <configuration name="BankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jan_07.BankMain" />
       <module name="Javaprograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Jan_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jan14.Exceptions.Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan14.Exceptions.Lab002" />
+      <module name="Javaprograms" />
+      <option name="PROGRAM_PARAMETERS" value="5 10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan14.Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,13 +140,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="Javaprograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BankMain" />
+      <item itemvalue="Application.Jan14.Exceptions.Lab002" />
+      <item itemvalue="Application.Lab002" />
+      <item itemvalue="Application.Lab008" />
+      <item itemvalue="Application.Lab009" />
+      <item itemvalue="Application.Lab017" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jan14.Exceptions.Lab002" />
         <item itemvalue="Application.BankMain" />
         <item itemvalue="Application.Lab002" />
         <item itemvalue="Application.Lab009" />
         <item itemvalue="Application.Lab008" />
-        <item itemvalue="Application.Lab017" />
       </list>
     </recent_temporary>
   </component>
@@ -417,5 +453,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Javaprograms$Jan14_Exceptions_Lab002.ic" NAME="Jan14.Exceptions.Lab002 Coverage Results" MODIFIED="1706715603996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Jan14.Exceptions.*</FILTER>
+    </SUITE>
   </component>
 </project>
