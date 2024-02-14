@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="617d2493-9829-4675-854c-0d419652e36a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Lab019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab019.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lab014">
     <configuration name="BankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jan_07.BankMain" />
       <module name="Javaprograms" />
@@ -74,13 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jan14.Exceptions.Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan14.Exceptions.Lab002" />
+    <configuration name="Lab012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Lab012" />
       <module name="Javaprograms" />
-      <option name="PROGRAM_PARAMETERS" value="5 10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan14.Exceptions.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec24Arrays.Lab002" />
+    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Lab013" />
       <module name="Javaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dec24Arrays.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec30.Lab008" />
+    <configuration name="Lab014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Lab014" />
       <module name="Javaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dec30.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec30.Lab009" />
+    <configuration name="Lab015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Lab015" />
       <module name="Javaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dec30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec23.Lab017" />
-      <module name="Javaprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dec23.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,20 +141,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Lab012" />
+      <item itemvalue="Application.Lab013" />
+      <item itemvalue="Application.Lab014" />
+      <item itemvalue="Application.Lab015" />
       <item itemvalue="Application.BankMain" />
-      <item itemvalue="Application.Jan14.Exceptions.Lab002" />
-      <item itemvalue="Application.Lab002" />
-      <item itemvalue="Application.Lab008" />
-      <item itemvalue="Application.Lab009" />
-      <item itemvalue="Application.Lab017" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab014" />
+        <item itemvalue="Application.Lab015" />
+        <item itemvalue="Application.Lab013" />
+        <item itemvalue="Application.Lab012" />
         <item itemvalue="Application.BankMain" />
-        <item itemvalue="Application.Jan14.Exceptions.Lab002" />
-        <item itemvalue="Application.Lab002" />
-        <item itemvalue="Application.Lab009" />
-        <item itemvalue="Application.Lab008" />
       </list>
     </recent_temporary>
   </component>
