@@ -8,7 +8,7 @@ public class Lab008 {
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
         int revnum=0;
-         num=0;
+
 
         while(num!=0){
             int remainder=revnum*10;
