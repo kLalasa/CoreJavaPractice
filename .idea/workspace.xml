@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d2493-9829-4675-854c-0d419652e36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice01/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice01/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice01/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice01/Lab022.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice01/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice01/Lab008.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
