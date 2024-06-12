@@ -5,33 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d2493-9829-4675-854c-0d419652e36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/BuubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/CountCharacterOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/DelSpecialChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/DuplicatesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/EvenOddCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/EvenOddNumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/GenerateRandomNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/MaxMinNumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/MissingNumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/PalindromeNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/PalindromeStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/PrimeNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/RemoveSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/RevString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/Revnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/SumOfEleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/checkArrayEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/largestof3num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/swapnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice240424/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice240424/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec24Arrays/sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice04052024/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice240424/Lab007.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,8 +163,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.CountDigits" />
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Revnum" />
         <item itemvalue="Application.Lab001" />
         <item itemvalue="Application.Lab002" />
@@ -611,16 +597,6 @@
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practice04052024/CountDigits.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="173" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practice04052024/CountDigits.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="174" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Practice04052024/Factorial.java</url>
           <line>11</line>
           <option name="timeStamp" value="175" />
@@ -634,6 +610,11 @@
           <url>file://$PROJECT_DIR$/src/Practice04052024/Factorial.java</url>
           <line>15</line>
           <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice04052024/CountDigits.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="178" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
