@@ -4,21 +4,26 @@ import java.util.Scanner;
 
 public class Lab010 {
     public static void main(String[] args) {
-        int count;
-        Scanner sc= new Scanner(System.in);
-        System.out.println("Enter the count");
-        count= sc.nextInt();
-        int sum=0;
-        int number;
+       int count;
+       int number;
+       int sum=0;
 
-        for(int i=0;i<count;i++){
+       Scanner sc= new Scanner(System.in);
+        System.out.println("enter the count of numbers ");
 
-            System.out.println("Enter the numbers");
-            number=sc.nextInt();
-            sum=sum+number;
 
-        }
 
-        System.out.println("Sum of numbers " +sum);
+       count=sc.nextInt();
+
+        System.out.println("Enter the numbers in Array ");
+
+       for(int i=0;i<count;i++){
+
+
+           number=sc.nextInt();
+           sum =sum+number;
+       }
+
+        System.out.println("sum of all the number "  +sum);
     }
 }

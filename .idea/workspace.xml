@@ -5,20 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d2493-9829-4675-854c-0d419652e36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dec24Arrays/sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice04052024/CountWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice240424/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab0111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab006.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab010.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice240424.Lab002" />
+    <configuration name="Lab015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRACTICE_Arrays.Lab015" />
       <module name="Javaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice240424.*" />
+          <option name="PATTERN" value="PRACTICE_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,19 +162,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Lab015" />
       <item itemvalue="Application.Factorial" />
       <item itemvalue="Application.CountDigits" />
       <item itemvalue="Application.Lab001" />
       <item itemvalue="Application.Revnum" />
-      <item itemvalue="Application.Lab002" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab015" />
         <item itemvalue="Application.CountDigits" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Revnum" />
         <item itemvalue="Application.Lab001" />
-        <item itemvalue="Application.Lab002" />
       </list>
     </recent_temporary>
   </component>
@@ -615,6 +622,30 @@
           <url>file://$PROJECT_DIR$/src/Practice04052024/CountDigits.java</url>
           <line>8</line>
           <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PRACTICE_Arrays/Lab015.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PRACTICE_Arrays/Lab017.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice_Strings/Lab002.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PRACTICE_Arrays/Lab017.java</url>
+          <line>11</line>
+          <properties class="PRACTICE_Arrays.Lab017" method="fact">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="182" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
