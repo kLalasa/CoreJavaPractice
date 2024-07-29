@@ -5,27 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d2493-9829-4675-854c-0d419652e36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab0111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab0111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Strings/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_collections/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_collections/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_collections/Lab003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PRACTICE_Arrays/Lab010.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
